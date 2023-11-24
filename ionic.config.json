@@ -1,0 +1,7 @@
+{
+  "name": "Banshee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
